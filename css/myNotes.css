@@ -5,6 +5,7 @@
 #myContainer {
 	width: 600px;
 	margin: 100px auto;
+    padding-top: 20px;
 	/*background: #f7f7f7;*/
 	box-shadow: 0 0 3px rgba(0,0,0, 0.1);
 }
